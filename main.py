@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template, jsonify  # Import jsonify
+from matplotlib.pyplot import hist
 import numpy as np
 import pandas as pd
 import pickle
@@ -117,4 +118,4 @@ def blog():
 
 if __name__ == '__main__':
 
-    app.run(debug=False,host:'0.0.0.0')
+    app.run(debug=False)

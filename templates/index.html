@@ -17,16 +17,20 @@
     }
 
     .navbar {
-        background-color: #343a40 !important; /* Dark background for navbar */
+        margin:2px;
+        background-image:url("https://wallpapers.com/images/hd/black-solid-background-2560-x-1600-db48y1vipwl38mh1.jpg") /* Dark background for navbar */
     }
 
     .navbar-brand {
         color: #fff !important; /* White text color for navbar brand */
         font-weight: bold; /* Bold font weight */
+       margin:5px;
     }
 
     .navbar-nav .nav-link {
         color: #fff !important; /* White text color for navbar links */
+        font-size:large;
+        margin-left:25px;
     }
 
     .navbar-nav .nav-link.active {
@@ -34,11 +38,12 @@
     }
 
     .container {
-        background-color: #fff; /* White background for containers */
+        background-image:url("https://wallpapers.com/images/hd/black-solid-background-2560-x-1600-db48y1vipwl38mh1.jpg"); /* White background for containers */
         border-radius: 15px; /* Rounded corners */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
         padding: 20px; /* Padding inside containers */
         margin-bottom: 20px; /* Add bottom margin */
+        
     }
 
     h1, h2, h3 {
@@ -50,7 +55,7 @@
     }
 
     .modal-header {
-        background-color: #343a40; /* Dark background for modal headers */
+        background-image: url("https://wallpapers.com/images/hd/black-solid-background-2560-x-1600-db48y1vipwl38mh1.jpg"); /* Dark background for modal headers */
         color: #fff; /* White text color for modal headers */
         border-bottom: none; /* No bottom border */
     }
@@ -79,6 +84,13 @@
 
     .toggle-button:focus {
         outline: none; /* Remove focus outline */
+    }
+    #startSpeechRecognition{
+        background-color:#268AF3;
+        width:200px;
+        height:30px;
+        margin:0;
+        padding:3px;
     }
 </style>
 </head>
@@ -125,16 +137,16 @@
 
 
 <!-- main form of page -->
-<h1 class="mt-4 my-4 text-center text-green">Personalized Medicine Recommendation System</h1>
-<div class="container my-4 mt-4" style="background: black; color: white; border-radius: 15px; padding: 40px;">
+<h1 class="mt-4 my-4 text-center text-green" style="font-family:bold;">PERSONALIZED MEDICINE RECOMMENDATION SYSTEM</h1>
+<div class="container my-4 mt-4" style="background-image:url('https://static.vecteezy.com/system/resources/thumbnails/006/712/985/small_2x/abstract-health-medical-science-healthcare-icon-digital-technology-science-concept-modern-innovation-treatment-medicine-on-hi-tech-future-blue-background-for-wallpaper-template-web-design-vector.jpg'); font:bold; color: white; border-radius: 15px; padding: 40px;">
     <form action="predict" method="post">
         <div class="form-group">
             <label for="symptoms">Select Symptoms:</label>
-            <input type="text" class="form-control", id="symptoms" name="symptoms" placeholder="type systems such as itching, sleeping, aching etc">
+            <input type="text" class="form-control", id="symptoms" name="symptoms" placeholder="type systems such as itching, sleeping, aching etc" style="width:60%; height:50px; background-color:#F39334">
 
         </div>
         <br>
-        <button type="button" id="startSpeechRecognition" class="btn btn-primary" style="margin-left:3px;border:1px solid white; border-radius:20px;">
+        <button type="button" id="startSpeechRecognition" class="btn btn-primary">
             Start Speech Recognition
         </button>
         <br>
@@ -147,7 +159,7 @@
         {% endif %}
         <br>
 
-        <button type="submit" class="btn btn-danger btn-lg" style="width: 100%; padding: 14px; margin-bottom: 5px;">Predict</button>
+        <button type="submit" class="btn btn-danger btn-lg" style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Bswene8NIdmChi34oYDSUO_W3uzKgMjEI2Z1UKwmzw&s'); width: 30%; padding: 14px; margin-bottom: 5px;">Predict</button>
     </form>
 </div>
 
