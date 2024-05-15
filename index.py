@@ -3,6 +3,7 @@ from matplotlib.pyplot import hist
 import numpy as np
 import pandas as pd
 import pickle
+import os
 
 
 # flask app
@@ -117,5 +118,5 @@ def blog():
 
 
 if __name__ == '__main__':
-
-    app.run(debug= False, host=0.0.0.0)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
