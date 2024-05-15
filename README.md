@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [A Personalized medical Recommendation System](https://github.com/rameshgyawali127/Personalized-Medicine-Recommendation-System/tree/main)
-- 👨‍💻 This project is deployed at "https://personalized-medicine-recommendation.onrender.com"
+- 👨‍💻 This project is deployed at (https://healthcare-recommendation-ai.onrender.com)
 - 👨‍💻 All of my projects are available at [gyawaliramesh.com.np](gyawaliramesh.com.np)
 
 - 📫 How to reach me **gamingrowmexh@gmail.com**
