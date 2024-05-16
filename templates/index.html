@@ -39,8 +39,9 @@
 
     .container {
         background-image:url("https://wallpapers.com/images/hd/black-solid-background-2560-x-1600-db48y1vipwl38mh1.jpg"); /* White background for containers */
+        background-size:cover;
         border-radius: 15px; /* Rounded corners */
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+        box-shadow: 2px 2px 10px black; /* Box shadow for depth */
         padding: 20px; /* Padding inside containers */
         margin-bottom: 20px; /* Add bottom margin */
         
@@ -91,6 +92,10 @@
         height:30px;
         margin:0;
         padding:3px;
+    }
+    .btn btn-danger btn-lg:hover{
+        box-shadow:0px 4px 8px grey;
+        background-color: white;
     }
 </style>
 </head>
@@ -159,7 +164,7 @@
         {% endif %}
         <br>
 
-        <button type="submit" class="btn btn-danger btn-lg" style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Bswene8NIdmChi34oYDSUO_W3uzKgMjEI2Z1UKwmzw&s'); width: 30%; padding: 14px; margin-bottom: 5px;">Predict</button>
+        <button type="submit" class="btn btn-danger btn-lg" style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Bswene8NIdmChi34oYDSUO_W3uzKgMjEI2Z1UKwmzw&s'); width: 30%; padding: 14px; margin-bottom: 5px;box-shadow:0px 4px 8px grey;">Predict</button>
     </form>
 </div>
 
