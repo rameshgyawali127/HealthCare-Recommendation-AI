@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ramesh gyawali</h1>
 <h3 align="center">A Comprehensive Approach from Data to Deployment for Enhanced Healthcare Outcomes"</h3>
+<h1>Flask Application Directory Structure</h1>
+    <ul>
+        <li class="root">your-flask-app/
+            <ul>
+                <li class="file">app.py</li>
+                <li class="file">wsgi.py</li>
+                <li class="file">requirements.txt</li>
+                <li class="file">.env</li>
+                <li class="file">config.py</li>
+                <li class="directory">templates/
+                    <ul>
+                        <li class="file">index.html</li>
+                        <li class="file">about.html</li>
+                        <li class="file">...</li>
+                    </ul>
+                </li>
+                <li class="directory">datasets/
+                    <ul>
+                        <li class="file">symtoms_df.csv</li>
+                        <li class="file">precautions_df.csv</li>
+                        <li class="file">...</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshgyawali127&label=Profile%20views&color=0e75b6&style=flat" alt="rameshgyawali127" /> </p>
 
