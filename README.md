@@ -41,13 +41,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramesh.gyawali127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh.gyawali127" height="30" width="40" /></a>
-<a href="https://kaggle.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rameshgyawali" height="30" width="40" /></a>
-<a href="https://fb.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rameshgyawali" height="30" width="40" /></a>
-<a href="https://instagram.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rameshgyawali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gyawaliramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gyawaliramesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gyawaliramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gyawaliramesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gyawaliramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gyawaliramesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramesh-gyawali-53777724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh.gyawali127" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/gamingrowmexh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rameshgyawali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/IbAlert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rameshgyawali" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rameshgyawali01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rameshgyawali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCM6EeMhsYOpQdyzCgzG3aBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gyawaliramesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gyawaliramesh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ramesh1481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gyawaliramesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
