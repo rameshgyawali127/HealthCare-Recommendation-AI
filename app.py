@@ -78,12 +78,12 @@ def developer():
 
 @app.route('/login.html')
 @cache.cached(timeout=3600)
-def login():
+def developer():
     return render_template("login.html")
 
 @app.route('/signup.html')
 @cache.cached(timeout=3600)
-def signup():
+def developer():
     return render_template("signup.html")
 
 @app.route('/blog.html')
